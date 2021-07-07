@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Message</string>
+    <string name="message">Message</string>
+    <string name="forward">Forward</string>
+    <string name="reply">Reply</string>
+    <string name="title">Title</string>
+    <string name="comment"><![CDATA[{comment} Comment(s)]]></string>
+    <string name="attachment"><![CDATA[{attachment} Attachment(s)]]></string>
+    <string name="content">Content</string>
+    <string name="favorite">Favorite Messages</string>
+    <string name="recent_message">Recent Messages</string>
+</resources>
